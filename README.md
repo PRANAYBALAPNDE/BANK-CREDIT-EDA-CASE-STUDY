@@ -1,2 +1,2 @@
-# CREDIT
-This assignment aims to give you an idea of applying EDA in a real business scenario. In this assignment, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+#  BANK CREDIT EDA CASE STUDY
+Bussiness Objective of this case study aim to indentify patterns which indicate if a client has difficulty paying the installment which may be used for taking action such as denying the loan , reducing the amount of loan lending (to Risky applicants) at a higher interest rate etc. this will ensure that the consumer capable of repaying the loan are not rejected
